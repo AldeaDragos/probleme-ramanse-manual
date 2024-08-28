@@ -69,3 +69,4 @@ void sol6() {
 	afisareMatrice(x, 5, 5);
 
 }
+d
